@@ -1,4 +1,4 @@
-"""Batch convert images to greyscale [by Thomas Antony].
+"""Batch convert images to greyscale.
 
 Install dependencies:
   pip install pillow docopt
